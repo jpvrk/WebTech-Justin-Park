@@ -9,6 +9,7 @@
 - An interactive form that can leave a rating and any questions, etc. 
 - Display changes for accessibility: ex. Dark mode toggle
 - Print recipe button
+- find recipes by ingredients
 
 ## Pages
 - Home/About/Contact (all in one)
